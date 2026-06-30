@@ -1,6 +1,0 @@
-{
-  "name": "Robson de Oxum",
-  "description": "Consultas de jogo de búzios, cartomancia e orientação espiritual com Robson de Oxum. Atendimento on-line e presencial no Rio de Janeiro.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
